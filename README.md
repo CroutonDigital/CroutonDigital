@@ -17,7 +17,7 @@ We have extensive experience as a Linux administrator and over 2 years of workin
 [<img src='https://user-images.githubusercontent.com/83868103/183111052-2bc3a8cf-f5b7-4915-8a09-212f09859e34.gif' alt='mainnets'  width='99.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/83868103/182951895-1f093735-ce28-4ae6-9aba-cec3de667843.png' alt='umee'  width='24.5%'>](https://www.mintscan.io/umee/validators/umeevaloper1z6qsfe95y3luzj4wve93s9w6rjs7msk972zs4f)
 [<img src='https://user-images.githubusercontent.com/83868103/182946009-439e0aa3-b401-457a-b2ed-355f9f5ccb3a.png' alt='nym'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/8fVEYyzsr6xWbgWv19CqiiAWr3ocskn3DU65MNSbQH2q)
-[<img src='./images/axelar-network-green.png' alt='stride'  width='24.5%'>](https://www.axelarscan.io/validator/axelarvaloper14fpqu7kpvlhlhyefsmus6strrz4kwselc5caah)
+[<img src='./images/axelar-network-white.png' alt='stride'  width='24.5%'>](https://www.axelarscan.io/validator/axelarvaloper14fpqu7kpvlhlhyefsmus6strrz4kwselc5caah)
 # 
 [<img src='https://user-images.githubusercontent.com/83868103/183112064-24d8012d-8808-49dd-add7-d1a631e18170.gif' alt='activetestnet'  width='99.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/83868103/182960079-6982eff9-114a-4b24-8955-d02fb2043c1c.png' alt='kyve'  width='24.5%'>](https://kyve.explorers.guru/validator/kyvevaloper15r6jsgyd7e0eq5fmvu80vyu8m73vryq8d6dydz)

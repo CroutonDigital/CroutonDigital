@@ -1,10 +1,10 @@
 [<img src='https://user-images.githubusercontent.com/83868103/192889523-e06d4365-209a-4759-a902-ee01d9bd0b86.gif' alt='mainnets'  width='99.5%'>](https://github.com/romanv1812)
 ### :bust_in_silhouette: Bio:
-**My name is Roman, I am an individual validator from Ukraine.
-I have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)**
+**We are Crouton Digital, international team located in Latvia.
+We have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)**
 #
 ### :computer: Hardware:
-:earth_africa: **Location - [Hetzner DS](https://www.hetzner.com/dedicated-rootserver/ax101), [Ovhcloud](https://www.ovhcloud.com/de/bare-metal/), [Digitalocean](https://www.digitalocean.com/)  
+:earth_africa: **Location - [Hetzner DS](https://www.hetzner.com/dedicated-rootserver/ax101), [Google Cloud](https://www.ovhcloud.com/de/bare-metal/), [Worldstream](https://www.digitalocean.com/)  
 :black_small_square: Processor - AMD Ryzen 5950X (32 CPU, 128 RAM)  
 :black_small_square: Memory - 6.8 TB NVMe  
 :black_small_square: Bandwidth - 1 Gbit/s-Port**

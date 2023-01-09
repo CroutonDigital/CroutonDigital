@@ -9,7 +9,7 @@ We have extensive experience as a Linux administrator and over 2 years of workin
 :black_small_square: Memory - 6.8 TB NVMe  
 :black_small_square: Bandwidth - 1 Gbit/s-Port**
 
-[<img src='https://user-images.githubusercontent.com/83868103/192875774-0b66a80b-713a-44ae-b14d-beb019ac3dd4.png' alt='discord'  width='24.5%'>](https://discordapp.com/users/AK3#2821)
+[<img src='https://user-images.githubusercontent.com/83868103/192875774-0b66a80b-713a-44ae-b14d-beb019ac3dd4.png' alt='discord'  width='24.5%'>](https://discordapp.com/users/894499551807950868)
 [<img src='https://user-images.githubusercontent.com/83868103/192876471-2921ad54-dc4c-4592-95f3-4d24c4ee21e1.png' alt='telegram'  width='24.5%'>](https://t.me/croutoncrypto)
 [<img src='https://user-images.githubusercontent.com/83868103/192877399-83f11a01-6da4-4d55-94f8-7e49a834989a.png' alt='telegram'  width='24.5%'>](https://twitter.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/83868103/192877952-23be5ebf-6ad4-4080-94ae-1a2346b2f756.png' alt='telegram'  width='24.5%'>](mailto:croutondigital@aol)

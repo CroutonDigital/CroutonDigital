@@ -1,7 +1,8 @@
-[<img src='https://user-images.githubusercontent.com/83868103/192889523-e06d4365-209a-4759-a902-ee01d9bd0b86.gif' alt='mainnets'  width='99.5%'>](https://github.com/romanv1812)
+[<img src='./images/up-banner.gif' alt='mainnets'  width='99.5%'>](https://github.com/CroutonDigital)
 ### :bust_in_silhouette: About us:
 **We are Crouton Digital, international team located in Latvia.
-We have extensive experience as a Linux administrator and over 2 years of working with nodes on Cosmos and Polkadot networks. Secure and reliable individual PoS/PoW validator, crypto enthusiast. 24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)**
+Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 secure and reliable.
+**
 #
 ### :computer: Hardware:
 :earth_africa: **Location - [Hetzner DS](https://www.hetzner.com/dedicated-rootserver/ax101), [Google Cloud](https://www.ovhcloud.com/de/bare-metal/), [Worldstream](https://www.digitalocean.com/)  
@@ -14,10 +15,10 @@ We have extensive experience as a Linux administrator and over 2 years of workin
 [<img src='https://user-images.githubusercontent.com/83868103/192877399-83f11a01-6da4-4d55-94f8-7e49a834989a.png' alt='telegram'  width='24.5%'>](https://twitter.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/83868103/192877952-23be5ebf-6ad4-4080-94ae-1a2346b2f756.png' alt='telegram'  width='24.5%'>](mailto:croutondigital@aol.com)
 #
-[<img src='https://user-images.githubusercontent.com/83868103/183111052-2bc3a8cf-f5b7-4915-8a09-212f09859e34.gif' alt='mainnets'  width='99.5%'>](https://github.com/CroutonDigital)
-[<img src='https://user-images.githubusercontent.com/83868103/182951895-1f093735-ce28-4ae6-9aba-cec3de667843.png' alt='umee'  width='24.5%'>](https://www.mintscan.io/umee/validators/umeevaloper1z6qsfe95y3luzj4wve93s9w6rjs7msk972zs4f)
-[<img src='https://user-images.githubusercontent.com/83868103/182946009-439e0aa3-b401-457a-b2ed-355f9f5ccb3a.png' alt='nym'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/8fVEYyzsr6xWbgWv19CqiiAWr3ocskn3DU65MNSbQH2q)
-[<img src='./images/axelar-network-white.png' alt='stride'  width='24.5%'>](https://www.axelarscan.io/validator/axelarvaloper14fpqu7kpvlhlhyefsmus6strrz4kwselc5caah)
+[<img src='./images/new-mainnet.gif' alt='mainnets'  width='99.5%'>](https://github.com/CroutonDigital)
+[<img src='./images/umee-network.png' alt='umee'  width='24.5%'>](https://www.mintscan.io/umee/validators/umeevaloper1z6qsfe95y3luzj4wve93s9w6rjs7msk972zs4f)
+[<img src='./images/nym.png' alt='nym'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/4XSMGj52Vi95SNSRMQc3c7hMC5318iUZVB6iw7tL15jT)
+[<img src='./images/axelar-network.png' alt='axelar'  width='24.5%'>](https://www.axelarscan.io/validator/axelarvaloper14fpqu7kpvlhlhyefsmus6strrz4kwselc5caah)
 # 
 [<img src='https://user-images.githubusercontent.com/83868103/183112064-24d8012d-8808-49dd-add7-d1a631e18170.gif' alt='activetestnet'  width='99.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/83868103/182960079-6982eff9-114a-4b24-8955-d02fb2043c1c.png' alt='kyve'  width='24.5%'>](https://kyve.explorers.guru/validator/kyvevaloper15r6jsgyd7e0eq5fmvu80vyu8m73vryq8d6dydz)

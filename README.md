@@ -1,4 +1,4 @@
-[<img src='./images/up-banner.gif' alt='mainnets'  width='99.5%'>](https://github.com/CroutonDigital)
+[<img src='./images/topnew.gif' alt='mainnets'  width='99.5%'>](https://github.com/CroutonDigital)
 ### :bust_in_silhouette: About us:
 **We are Crouton Digital, international team located in Latvia.
 Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 secure and reliable.

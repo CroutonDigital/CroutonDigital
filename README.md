@@ -10,7 +10,6 @@ Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 se
 :black_small_square: Memory - 6.8 TB NVMe  
 :black_small_square: Bandwidth - 1 Gbit/s-Port**
 
-[<img src='https://user-images.githubusercontent.com/83868103/192875774-0b66a80b-713a-44ae-b14d-beb019ac3dd4.png' alt='discord'  width='24.5%'>](https://discordapp.com/users/894499551807950868)
 [<img src='./images/mediumlogogith.png' alt='medium'  width='24.5%'>](https://medium.com/@CroutonDigital)
 [<img src='./images/telegramgith.png' alt='telegram'  width='24.5%'>](https://t.me/croutoncrypto)
 [<img src='./images/twittergith.png' alt='twitter'  width='24.5%'>](https://twitter.com/CroutonDigital)
@@ -21,7 +20,7 @@ Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 se
 [<img src='./images/nym-network.png' alt='nym'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/4XSMGj52Vi95SNSRMQc3c7hMC5318iUZVB6iw7tL15jT)
 [<img src='./images/axelar-network.png' alt='axelar'  width='24.5%'>](https://www.axelarscan.io/validator/axelarvaloper14fpqu7kpvlhlhyefsmus6strrz4kwselc5caah)
 # 
-[<img src='./images/mainnet.gif' alt='activetestnet'  width='99.5%'>](https://github.com/CroutonDigital)
+[<img src='./images/testnetgithub.gif' alt='activetestnet'  width='99.5%'>](https://github.com/CroutonDigital)
 [<img src='./images/axelar-network.png' alt='axelar'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='./images/nibiru-network.png' alt='nibiruu'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='./images/mande-network.png' alt='mande'  width='24.5%'>](https://github.com/CroutonDigital)

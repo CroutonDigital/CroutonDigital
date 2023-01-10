@@ -11,8 +11,8 @@ Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 se
 :black_small_square: Bandwidth - 1 Gbit/s-Port**
 
 [<img src='https://user-images.githubusercontent.com/83868103/192875774-0b66a80b-713a-44ae-b14d-beb019ac3dd4.png' alt='discord'  width='24.5%'>](https://discordapp.com/users/894499551807950868)
-[<img src='./images/mediumlogogith.png' alt='medium'  width='24.5%'>](https://t.me/croutoncrypto)
-[<img src='./images/telegramgith.png' alt='telegram'  width='24.5%'>](https://twitter.com/CroutonDigital)
+[<img src='./images/mediumlogogith.png' alt='medium'  width='24.5%'>](https://medium.com/@CroutonDigital)
+[<img src='./images/telegramgith.png' alt='telegram'  width='24.5%'>](https://t.me/croutoncrypto)
 [<img src='./images/twittergith.png' alt='twitter'  width='24.5%'>](https://twitter.com/CroutonDigital)
 [<img src='./images/emailgithub.png' alt='email'  width='24.5%'>](mailto:croutondigital@aol.com)
 #

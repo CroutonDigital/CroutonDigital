@@ -17,7 +17,7 @@ Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 se
 #
 [<img src='./images/new-mainnet.gif' alt='mainnets'  width='99.5%'>](https://github.com/CroutonDigital)
 [<img src='./images/umee-network.png' alt='umee'  width='24.5%'>](https://www.mintscan.io/umee/validators/umeevaloper1z6qsfe95y3luzj4wve93s9w6rjs7msk972zs4f)
-[<img src='./images/nym.png' alt='nym'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/4XSMGj52Vi95SNSRMQc3c7hMC5318iUZVB6iw7tL15jT)
+[<img src='./images/nym-network.png' alt='nym'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/4XSMGj52Vi95SNSRMQc3c7hMC5318iUZVB6iw7tL15jT)
 [<img src='./images/axelar-network.png' alt='axelar'  width='24.5%'>](https://www.axelarscan.io/validator/axelarvaloper14fpqu7kpvlhlhyefsmus6strrz4kwselc5caah)
 # 
 [<img src='https://user-images.githubusercontent.com/83868103/183112064-24d8012d-8808-49dd-add7-d1a631e18170.gif' alt='activetestnet'  width='99.5%'>](https://github.com/CroutonDigital)

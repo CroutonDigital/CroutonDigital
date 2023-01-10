@@ -29,7 +29,7 @@ Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 se
 [<img src='./images/celestia-network.png' alt='celestia'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='./images/massa-network.png' alt='massa'  width='24.5%'>](https://github.com/CroutonDigital)
 #
-[<img src='./images/compleatedgithub.gif' alt='inactive'  width='99.5%'>](https://github.com/CroutonDigital)
+[<img src='./images/completedgithub.gif' alt='inactive'  width='99.5%'>](https://github.com/CroutonDigital)
 [<img src='./images/neutron-network.png' alt='neutron'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='./images/subspace-network.png' alt='subspace'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='./images/haqq-network.png' alt='haqq'  width='24.5%'>](https://github.com/CroutonDigital)

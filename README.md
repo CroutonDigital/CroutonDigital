@@ -21,9 +21,9 @@ Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 se
 [<img src='./images/axelar-network.png' alt='axelar'  width='24.5%'>](https://www.axelarscan.io/validator/axelarvaloper14fpqu7kpvlhlhyefsmus6strrz4kwselc5caah)
 # 
 [<img src='./images/testnetgithub.gif' alt='activetestnet'  width='99.5%'>](https://github.com/CroutonDigital)
-[<img src='./images/axelar-network.png' alt='axelar'  width='24.5%'>](https://github.com/CroutonDigital)
-[<img src='./images/nibiru-network.png' alt='nibiruu'  width='24.5%'>](https://github.com/CroutonDigital)
-[<img src='./images/mande-network.png' alt='mande'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='./images/axelar-network.png' alt='axelar'  width='24.5%'>](https://testnet.axelarscan.io/validator/axelarvaloper1sxefq5mpdxfrcpjxp6h27cm0mkh4m488wuu5q8)
+[<img src='./images/nibiru-network.png' alt='nibiruu'  width='24.5%'>](https://nibiru.explorers.guru/validator/nibivaloper1ylzlf6thgd444qe9yqxhcfrt9jcumgysdwdlf5)
+[<img src='./images/mande-network.png' alt='mande'  width='24.5%'>](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1jge2jy7f9scnhnekllxaf7k9jvzjfkgvz42k86)
 [<img src='./images/okp4-network.png' alt='okp4'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='./images/taiko-network.png' alt='taiko'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='./images/celestia-network.png' alt='celestia'  width='24.5%'>](https://github.com/CroutonDigital)

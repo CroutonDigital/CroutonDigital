@@ -15,12 +15,12 @@ Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 se
 [<img src='./images/twittergith.png' alt='twitter'  width='24.5%'>](https://twitter.com/CroutonDigital)
 [<img src='./images/emailgithub.png' alt='email'  width='24.5%'>](mailto:croutondigital@aol.com)
 #
-[<img src='./images/new-mainnet.gif' alt='mainnets'  width='99.5%'>](https://github.com/CroutonDigital)
+[<img src='./images/mainnets.gif' alt='mainnets'  width='99.5%'>](https://github.com/CroutonDigital)
 [<img src='./images/umee-network.png' alt='umee'  width='24.5%'>](https://www.mintscan.io/umee/validators/umeevaloper1z6qsfe95y3luzj4wve93s9w6rjs7msk972zs4f)
 [<img src='./images/nym-network.png' alt='nym'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/4XSMGj52Vi95SNSRMQc3c7hMC5318iUZVB6iw7tL15jT)
 [<img src='./images/axelar-network.png' alt='axelar'  width='24.5%'>](https://www.axelarscan.io/validator/axelarvaloper14fpqu7kpvlhlhyefsmus6strrz4kwselc5caah)
 # 
-[<img src='./images/testnetgithub.gif' alt='activetestnet'  width='99.5%'>](https://github.com/CroutonDigital)
+[<img src='./images/testnets.gif' alt='activetestnet'  width='99.5%'>](https://github.com/CroutonDigital)
 [<img src='./images/axelar-network.png' alt='axelar'  width='24.5%'>](https://testnet.axelarscan.io/validator/axelarvaloper1sxefq5mpdxfrcpjxp6h27cm0mkh4m488wuu5q8)
 [<img src='./images/nibiru-network.png' alt='nibiruu'  width='24.5%'>](https://nibiru.explorers.guru/validator/nibivaloper1ylzlf6thgd444qe9yqxhcfrt9jcumgysdwdlf5)
 [<img src='./images/mande-network.png' alt='mande'  width='24.5%'>](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1jge2jy7f9scnhnekllxaf7k9jvzjfkgvz42k86)
@@ -29,7 +29,7 @@ Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 se
 [<img src='./images/celestia-network.png' alt='celestia'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='./images/massa-network.png' alt='massa'  width='24.5%'>](https://github.com/CroutonDigital)
 #
-[<img src='./images/completedgithub.gif' alt='inactive'  width='99.5%'>](https://github.com/CroutonDigital)
+[<img src='./images/completed.gif' alt='inactive'  width='99.5%'>](https://github.com/CroutonDigital)
 [<img src='./images/neutron-network.png' alt='neutron'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='./images/subspace-network.png' alt='subspace'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='./images/haqq-network.png' alt='haqq'  width='24.5%'>](https://github.com/CroutonDigital)

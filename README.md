@@ -18,7 +18,9 @@ Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 se
 [<img src='./images/mainnets.gif' alt='mainnets'  width='99.5%'>](https://github.com/CroutonDigital)
 [<img src='./images/umee-network.png' alt='umee'  width='24.5%'>](https://www.mintscan.io/umee/validators/umeevaloper1z6qsfe95y3luzj4wve93s9w6rjs7msk972zs4f)
 [<img src='./images/nym-network.png' alt='nym'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/4XSMGj52Vi95SNSRMQc3c7hMC5318iUZVB6iw7tL15jT)
-[<img src='./images/axelar-network.png' alt='axelar'  width='24.5%'>](https://www.axelarscan.io/validator/axelarvaloper14fpqu7kpvlhlhyefsmus6strrz4kwselc5caah)
+[<img src='https://user-images.githubusercontent.com/113435724/230778057-7ff9433c-d7ec-4a0b-b4c2-cdbe2aa0a261.png' alt='axelar'  width='24.5%'>](https://www.axelarscan.io/validator/axelarvaloper14fpqu7kpvlhlhyefsmus6strrz4kwselc5caah)
+
+
 # 
 [<img src='./images/testnets.gif' alt='activetestnet'  width='99.5%'>](https://github.com/CroutonDigital)
 [<img src='./images/axelar-network.png' alt='axelar'  width='24.5%'>](https://testnet.axelarscan.io/validator/axelarvaloper1sxefq5mpdxfrcpjxp6h27cm0mkh4m488wuu5q8)

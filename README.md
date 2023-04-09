@@ -1,6 +1,5 @@
 
-![razrabgithub](https://user-images.githubusercontent.com/113435724/230793426-d4d4d7eb-4a37-4ee2-8076-1b84db033084.gif)
-
+[<img src='https://user-images.githubusercontent.com/113435724/230796193-9692e614-41ad-4d14-9f26-fd2770c4ce4d.gif' alt='head'  width='99.5%'>](https://github.com/CroutonDigital)
 
 ### :bust_in_silhouette: About us:
 **We are Crouton Digital, international team located in Latvia.

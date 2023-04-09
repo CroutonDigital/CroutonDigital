@@ -16,10 +16,9 @@ Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 se
 [<img src='https://user-images.githubusercontent.com/113435724/230776844-11b53c2f-5f92-45f0-a925-90106ee729d7.png' alt='email'  width='24.5%'>](mailto:croutondigital@aol.com)
 #
 [<img src='./images/mainnets.gif' alt='mainnets'  width='99.5%'>](https://github.com/CroutonDigital)
-[<img src='./images/umee-network.png' alt='umee'  width='24.5%'>](https://www.mintscan.io/umee/validators/umeevaloper1z6qsfe95y3luzj4wve93s9w6rjs7msk972zs4f)
-[<img src='./images/nym-network.png' alt='nym'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/4XSMGj52Vi95SNSRMQc3c7hMC5318iUZVB6iw7tL15jT)
+[<img src='https://user-images.githubusercontent.com/113435724/230787070-6dabc71b-8aa9-484f-a45f-3afc5fb067c3.png' alt='umee'  width='24.5%'>](https://www.mintscan.io/umee/validators/umeevaloper1z6qsfe95y3luzj4wve93s9w6rjs7msk972zs4f)
+[<img src='https://user-images.githubusercontent.com/113435724/230787098-8f6e98d2-aefd-4804-b27b-f7f75d0bb776.png' alt='nym'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/4XSMGj52Vi95SNSRMQc3c7hMC5318iUZVB6iw7tL15jT)
 [<img src='https://user-images.githubusercontent.com/113435724/230778057-7ff9433c-d7ec-4a0b-b4c2-cdbe2aa0a261.png' alt='axelar'  width='24.5%'>](https://www.axelarscan.io/validator/axelarvaloper14fpqu7kpvlhlhyefsmus6strrz4kwselc5caah)
-
 
 # 
 [<img src='./images/testnets.gif' alt='activetestnet'  width='99.5%'>](https://github.com/CroutonDigital)

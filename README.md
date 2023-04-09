@@ -16,22 +16,36 @@ Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 se
 [<img src='https://user-images.githubusercontent.com/113435724/230776844-11b53c2f-5f92-45f0-a925-90106ee729d7.png' alt='email'  width='24.5%'>](mailto:croutondigital@aol.com)
 #
 [<img src='./images/mainnets.gif' alt='mainnets'  width='99.5%'>](https://github.com/CroutonDigital)
-[<img src='https://user-images.githubusercontent.com/113435724/230787070-6dabc71b-8aa9-484f-a45f-3afc5fb067c3.png' alt='umee'  width='24.5%'>](https://www.mintscan.io/umee/validators/umeevaloper1z6qsfe95y3luzj4wve93s9w6rjs7msk972zs4f)
-[<img src='https://user-images.githubusercontent.com/113435724/230787098-8f6e98d2-aefd-4804-b27b-f7f75d0bb776.png' alt='nym'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/4XSMGj52Vi95SNSRMQc3c7hMC5318iUZVB6iw7tL15jT)
-[<img src='https://user-images.githubusercontent.com/113435724/230778057-7ff9433c-d7ec-4a0b-b4c2-cdbe2aa0a261.png' alt='axelar'  width='24.5%'>](https://www.axelarscan.io/validator/axelarvaloper14fpqu7kpvlhlhyefsmus6strrz4kwselc5caah)
+[<img src='https://user-images.githubusercontent.com/113435724/230788207-7c57c32e-eff6-46c5-969e-e4f3d58bfe64.png' alt='umee'  width='24.5%'>](https://www.mintscan.io/umee/validators/umeevaloper1z6qsfe95y3luzj4wve93s9w6rjs7msk972zs4f)
+[<img src='https://user-images.githubusercontent.com/113435724/230788194-343e477a-f306-4110-aa86-fcca9e122060.png' alt='nym'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/4XSMGj52Vi95SNSRMQc3c7hMC5318iUZVB6iw7tL15jT)
+[<img src='https://user-images.githubusercontent.com/113435724/230788175-3ed49d27-f357-417d-9007-ed79ffb2c3a1.png' alt='axelar'  width='24.5%'>](https://www.axelarscan.io/validator/axelarvaloper14fpqu7kpvlhlhyefsmus6strrz4kwselc5caah)
 
 # 
 [<img src='./images/testnets.gif' alt='activetestnet'  width='99.5%'>](https://github.com/CroutonDigital)
-[<img src='./images/axelar-network.png' alt='axelar'  width='24.5%'>](https://testnet.axelarscan.io/validator/axelarvaloper1sxefq5mpdxfrcpjxp6h27cm0mkh4m488wuu5q8)
-[<img src='./images/nibiru-network.png' alt='nibiruu'  width='24.5%'>](https://nibiru.explorers.guru/validator/nibivaloper1ylzlf6thgd444qe9yqxhcfrt9jcumgysdwdlf5)
-[<img src='./images/mande-network.png' alt='mande'  width='24.5%'>](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1jge2jy7f9scnhnekllxaf7k9jvzjfkgvz42k86)
-[<img src='./images/okp4-network.png' alt='okp4'  width='24.5%'>](https://github.com/CroutonDigital)
-[<img src='./images/taiko-network.png' alt='taiko'  width='24.5%'>](https://github.com/CroutonDigital)
-[<img src='./images/celestia-network.png' alt='celestia'  width='24.5%'>](https://github.com/CroutonDigital)
-[<img src='./images/massa-network.png' alt='massa'  width='24.5%'>](https://github.com/CroutonDigital)
-#
-[<img src='./images/completed.gif' alt='inactive'  width='99.5%'>](https://github.com/CroutonDigital)
-[<img src='./images/neutron-network.png' alt='neutron'  width='24.5%'>](https://github.com/CroutonDigital)
-[<img src='./images/subspace-network.png' alt='subspace'  width='24.5%'>](https://github.com/CroutonDigital)
-[<img src='./images/haqq-network.png' alt='haqq'  width='24.5%'>](https://github.com/CroutonDigital)
-[<img src='./images/defund-network.png' alt='defund'  width='24.5%'>](https://github.com/CroutonDigital)
+
+[<img src='https://user-images.githubusercontent.com/113435724/230788175-3ed49d27-f357-417d-9007-ed79ffb2c3a1.png' alt='axelar'  width='24.5%'>](https://testnet.axelarscan.io/validator/axelarvaloper1sxefq5mpdxfrcpjxp6h27cm0mkh4m488wuu5q8)
+[<img src='https://user-images.githubusercontent.com/113435724/230788172-5a243fdf-44c3-4976-be5d-eee2974d9860.png' alt='aleo'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788174-9743da5c-d69b-4a8b-8e37-d0184757ec2b.png' alt='archway'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788176-a65a3d6e-d93b-47c0-8e48-5a54afb843da.png' alt='celestia'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788177-03e3c690-3e97-430f-a8f1-a02e1048eb0a.png' alt='chainflip'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788178-f766e79e-8228-4dae-a671-9cc2817973dc.png' alt='defund'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788181-168c5efa-20f0-43a8-9c80-9575c52117e0.png' alt='haqq'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788184-00a5849b-b973-49dc-ac14-53a0b7a3278d.png' alt='ironfish'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788187-b4ea79f0-8e06-4812-8287-2fa01834950f.png' alt='mande'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788188-5cdbfade-af45-4ecc-8d3a-d83d16cc8369.png' alt='massa'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788189-cb455c6e-62ae-4e76-ab2e-204c23ff1177.png' alt='namada'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788190-8f8581d7-9bd5-48e5-8330-e97fd46cf4e5.png' alt='neutron'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788191-4ab1ba99-4916-410f-95df-5fca84946b5b.png' alt='nibiru'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788196-fe1cdbfe-bb6f-4f5b-a1af-51795c33f270.png' alt='ojo'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788198-da5061cb-4296-4032-ae29-22e3e60cd57d.png' alt='okp4'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788199-eea1bbdf-4af4-456a-9fde-f2e69a39222f.png' alt='quasar'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788201-f1f7ad20-ae1c-4e7f-a004-e79d29d45b09.png' alt='shardeum'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788202-8f9e9f77-a1a0-476a-8e82-5eb452efb0b1.png' alt='starknet'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788204-0980cc1b-16d0-4de2-a73b-2f7f6dcf0754.png' alt='subspace'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788205-2e5e95a2-4c66-4a4b-8bb6-2123f5732aad.png' alt='sui'  width='24.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788206-10dfa59a-3031-462f-b49f-3534761d3792.png' alt='taiko'  width='24.5%'>](https://github.com/CroutonDigital)
+
+
+
+
+

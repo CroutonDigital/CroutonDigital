@@ -12,7 +12,7 @@ Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 se
 
 [<img src='https://user-images.githubusercontent.com/113435724/230776790-a0fb1c50-1129-4fa3-972f-c9454babdc05.png' alt='medium'  width='24.5%'>](https://medium.com/@CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230776821-ab658764-184b-4104-b301-9956b2aa3dee.png' alt='telegram'  width='24.5%'>](https://t.me/croutoncrypto)
-[<img src='https://user-images.githubusercontent.com/113435724/230776834-6b00f098-b6cd-4bab-8c67-d88c40e0d7f5.png' alt='twitter'  width='24.5%'>](https://twitter.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230777807-5b734bcf-ff81-477c-8c4b-3126f8169c90.png' alt='twitter'  width='24.5%'>](https://twitter.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230776844-11b53c2f-5f92-45f0-a925-90106ee729d7.png' alt='email'  width='24.5%'>](mailto:croutondigital@aol.com)
 #
 [<img src='./images/mainnets.gif' alt='mainnets'  width='99.5%'>](https://github.com/CroutonDigital)

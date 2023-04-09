@@ -10,19 +10,17 @@ Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 se
 :black_small_square: Memory - 6.8 TB NVMe  
 :black_small_square: Bandwidth - 1 Gbit/s-Port**
 
-[<img src='https://user-images.githubusercontent.com/113435724/230776790-a0fb1c50-1129-4fa3-972f-c9454babdc05.png' alt='medium'  width='24.5%'>](https://medium.com/@CroutonDigital)
-[<img src='https://user-images.githubusercontent.com/113435724/230776821-ab658764-184b-4104-b301-9956b2aa3dee.png' alt='telegram'  width='24.5%'>](https://t.me/CroutonDigital)
-[<img src='https://user-images.githubusercontent.com/113435724/230777807-5b734bcf-ff81-477c-8c4b-3126f8169c90.png' alt='twitter'  width='24.5%'>](https://twitter.com/CroutonDigital)
-[<img src='https://user-images.githubusercontent.com/113435724/230776844-11b53c2f-5f92-45f0-a925-90106ee729d7.png' alt='email'  width='24.5%'>](mailto:croutondigital@aol.com)
+[<img src='https://user-images.githubusercontent.com/113435724/230788690-cbc1327f-7bc9-40ff-b6c5-fbf78182593b.png' alt='medium'  width='24.5%'>](https://medium.com/@CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788691-74ac3bf2-b5ad-424c-86a9-f4dad5a0c76b.png' alt='telegram'  width='24.5%'>](https://t.me/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788692-c1974fe3-aaf2-42cb-90a5-75e699ef979d.png' alt='twitter'  width='24.5%'>](https://twitter.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230788686-c18f685e-f5da-4016-81c9-619142135f7a.png' alt='email'  width='24.5%'>](mailto:croutondigital@aol.com)
 #
 [<img src='./images/mainnets.gif' alt='mainnets'  width='99.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788207-7c57c32e-eff6-46c5-969e-e4f3d58bfe64.png' alt='umee'  width='24.5%'>](https://www.mintscan.io/umee/validators/umeevaloper1z6qsfe95y3luzj4wve93s9w6rjs7msk972zs4f)
 [<img src='https://user-images.githubusercontent.com/113435724/230788194-343e477a-f306-4110-aa86-fcca9e122060.png' alt='nym'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/4XSMGj52Vi95SNSRMQc3c7hMC5318iUZVB6iw7tL15jT)
 [<img src='https://user-images.githubusercontent.com/113435724/230788175-3ed49d27-f357-417d-9007-ed79ffb2c3a1.png' alt='axelar'  width='24.5%'>](https://www.axelarscan.io/validator/axelarvaloper14fpqu7kpvlhlhyefsmus6strrz4kwselc5caah)
-
 # 
 [<img src='./images/testnets.gif' alt='activetestnet'  width='99.5%'>](https://github.com/CroutonDigital)
-
 [<img src='https://user-images.githubusercontent.com/113435724/230788175-3ed49d27-f357-417d-9007-ed79ffb2c3a1.png' alt='axelar'  width='24.5%'>](https://testnet.axelarscan.io/validator/axelarvaloper1sxefq5mpdxfrcpjxp6h27cm0mkh4m488wuu5q8)
 [<img src='https://user-images.githubusercontent.com/113435724/230788172-5a243fdf-44c3-4976-be5d-eee2974d9860.png' alt='aleo'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788174-9743da5c-d69b-4a8b-8e37-d0184757ec2b.png' alt='archway'  width='24.5%'>](https://github.com/CroutonDigital)

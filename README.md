@@ -1,10 +1,11 @@
-
-___
-
 <p align="center">
   <img src='https://user-images.githubusercontent.com/113435724/230991227-5e5c1027-fd98-4a5c-8d86-16b2a3f0907e.gif' alt='PRE-RELISE'  width=70% > 
 </p> 
 
+#
+[<img align="left"  src='https://user-images.githubusercontent.com/113435724/230988736-3ccc79e5-18c1-42a6-a878-01fbbf391944.png' alt='web'  width='10%'>]()
+
+**We are Crouton Digital, international team located in Latvia. Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 secure and reliable.We are Crouton Digital, international team located in Latvia.**
 #
 [<img src='https://user-images.githubusercontent.com/113435724/230788690-cbc1327f-7bc9-40ff-b6c5-fbf78182593b.png' alt='medium'  width='19.5%'>](https://medium.com/@CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788691-74ac3bf2-b5ad-424c-86a9-f4dad5a0c76b.png' alt='telegram'  width='19.5%'>](https://t.me/CroutonDigital)
@@ -12,10 +13,7 @@ ___
 [<img src='https://user-images.githubusercontent.com/113435724/230788686-c18f685e-f5da-4016-81c9-619142135f7a.png' alt='email'  width='19.5%'>](mailto:croutondigital@aol.com)
 [<img src='https://user-images.githubusercontent.com/113435724/230986711-7f73c016-5ee1-4588-9b5b-91fbba898c83.png' alt='web'  width='19.5%'>](https://crouton-nodes-prod.web.app)
 ___
-[<img align="left"  src='https://user-images.githubusercontent.com/113435724/230988736-3ccc79e5-18c1-42a6-a878-01fbbf391944.png' alt='web'  width='10%'>]()
-**We are Crouton Digital, international team located in Latvia. Full time crypto since 2019.   
-Running validator nodes Pos/Pow. Monitoring 24/7 secure and reliable.**
-#
+
 ### :computer: Hardware:
 :earth_africa: **Location - [Hetzner DS](https://www.hetzner.com/dedicated-rootserver/ax101), [Google Cloud](https://www.ovhcloud.com/de/bare-metal/), [Worldstream](https://www.digitalocean.com/)  
 :black_small_square: Processor - AMD Ryzen 5950X (32 CPU, 128 RAM)  

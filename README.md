@@ -18,7 +18,7 @@
 **We are Crouton Digital, international team located in Latvia. Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 secure and reliable.We are Crouton Digital, international team located in Latvia.**
 
 [<img align="left"  src='https://user-images.githubusercontent.com/113435724/231004004-51e9a937-69fb-48f6-905b-50dd08af5e19.png' alt='web'  width='10%'>]()
-**We are Crouton Digital, international team located in Latvia. Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 secure and reliable.We are Crouton Digital, international team located in Latvia.**
+**The value of a house lies in its location , the value of a mind lies in it’s depth , the value of words lies in their reliability . Crouton Digital is your reliable crypto friend . Our team is motivated by the desire to achieve , not by desire to beat others .**
 
 
 [<img src='https://user-images.githubusercontent.com/113435724/230994953-694dfa78-734a-4b52-b3d9-da987e1765de.png' alt='mainnets'  width='99.5%'>](https://github.com/CroutonDigital)

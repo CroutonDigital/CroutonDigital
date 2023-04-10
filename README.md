@@ -1,8 +1,9 @@
 
-<img align="right"  src='https://user-images.githubusercontent.com/113435724/230991227-5e5c1027-fd98-4a5c-8d86-16b2a3f0907e.gif' alt='PRE-RELISE'  width=60% >
+___
 
-**We are Crouton Digital, international team located in Latvia. Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 secure and reliable.We are Crouton Digital, international team located in Latvia. Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 secure and reliable.We are Crouton Digital, international team located in Latvia. Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 secure and reliable.We are Crouton Digital, international team located in Latvia. Full time crypto since 2019. Running validator nodes Pos/Pow.Running validator nodes Pos/Pow. Monitoring 24/7 secure and reliable.We are Crouton Digital, international team located in Latvia. Full time crypto since**
-
+<p align="center">
+  <img src='https://user-images.githubusercontent.com/113435724/230991227-5e5c1027-fd98-4a5c-8d86-16b2a3f0907e.gif' alt='PRE-RELISE'  width=70% > 
+</p> 
 
 #
 [<img src='https://user-images.githubusercontent.com/113435724/230788690-cbc1327f-7bc9-40ff-b6c5-fbf78182593b.png' alt='medium'  width='19.5%'>](https://medium.com/@CroutonDigital)

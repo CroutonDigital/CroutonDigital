@@ -8,12 +8,14 @@
 [<img src='https://user-images.githubusercontent.com/113435724/230788686-c18f685e-f5da-4016-81c9-619142135f7a.png' alt='email'  width='19.5%'>](mailto:croutondigital@aol.com)
 [<img src='https://user-images.githubusercontent.com/113435724/230986711-7f73c016-5ee1-4588-9b5b-91fbba898c83.png' alt='web'  width='19.5%'>](https://crouton-nodes-prod.web.app)
 #
-[<img align="left"  src='https://user-images.githubusercontent.com/113435724/230988736-3ccc79e5-18c1-42a6-a878-01fbbf391944.png' alt='web'  width='10%'>]()
+[<img align="left"  src='https://user-images.githubusercontent.com/113435724/230998661-0f85b30f-64d7-4805-9d19-1d072858b251.png' alt='web'  width='10%'>]()
+
 
 **We are Crouton Digital, international team located in Latvia. Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 secure and reliable.We are Crouton Digital, international team located in Latvia.**
 
 [<img align="left"  src='https://user-images.githubusercontent.com/113435724/230997643-1394f381-e1f3-402f-8846-8ca8c14c84ab.png' alt='web'  width='10%'>]()
 
+**We are Crouton Digital, international team located in Latvia. Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 secure and reliable.We are Crouton Digital, international team located in Latvia.**
 
 [<img src='https://user-images.githubusercontent.com/113435724/230994953-694dfa78-734a-4b52-b3d9-da987e1765de.png' alt='mainnets'  width='99.5%'>](https://github.com/CroutonDigital)
 ___

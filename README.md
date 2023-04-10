@@ -14,16 +14,7 @@
 
 ___
 
-### :computer: Hardware:
-:earth_africa: **Location - [Hetzner DS](https://www.hetzner.com/dedicated-rootserver/ax101), [Google Cloud](https://www.ovhcloud.com/de/bare-metal/), [Worldstream](https://www.digitalocean.com/)  
-:black_small_square: Processor - AMD Ryzen 5950X (32 CPU, 128 RAM)  
-:black_small_square: Memory - 6.8 TB NVMe  
-:black_small_square: Bandwidth - 1 Gbit/s-Port**
 
-
-
-
-#
 [<img src='https://user-images.githubusercontent.com/113435724/230877331-3e4e75a8-531b-4ce6-b9c8-5dec70287d98.png' alt='mainnets'  width='99.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788207-7c57c32e-eff6-46c5-969e-e4f3d58bfe64.png' alt='umee'  width='24.5%'>](https://www.mintscan.io/umee/validators/umeevaloper1z6qsfe95y3luzj4wve93s9w6rjs7msk972zs4f)
 [<img src='https://user-images.githubusercontent.com/113435724/230788194-343e477a-f306-4110-aa86-fcca9e122060.png' alt='nym'  width='24.5%'>](https://mixnet.explorers.guru/mixnode/4XSMGj52Vi95SNSRMQc3c7hMC5318iUZVB6iw7tL15jT)

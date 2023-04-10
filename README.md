@@ -1,5 +1,7 @@
+<p align="center">
+  <img src='https://user-images.githubusercontent.com/113435724/230796193-9692e614-41ad-4d14-9f26-fd2770c4ce4d.gif' alt='PRE-RELISE'  width=60% > 
+</p> 
 
-[<img src='https://user-images.githubusercontent.com/113435724/230796193-9692e614-41ad-4d14-9f26-fd2770c4ce4d.gif' alt='head'  width='99.5%'>](https://github.com/CroutonDigital)
 #
 [<img src='https://user-images.githubusercontent.com/113435724/230788690-cbc1327f-7bc9-40ff-b6c5-fbf78182593b.png' alt='medium'  width='19.5%'>](https://medium.com/@CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788691-74ac3bf2-b5ad-424c-86a9-f4dad5a0c76b.png' alt='telegram'  width='19.5%'>](https://t.me/CroutonDigital)

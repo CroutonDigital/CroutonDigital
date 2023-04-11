@@ -8,7 +8,7 @@
 [<img src='https://user-images.githubusercontent.com/113435724/230788686-c18f685e-f5da-4016-81c9-619142135f7a.png' alt='email'  width='19.5%'>](mailto:croutondigital@aol.com)
 [<img src='https://user-images.githubusercontent.com/113435724/230986711-7f73c016-5ee1-4588-9b5b-91fbba898c83.png' alt='web'  width='19.5%'>](https://crouton-nodes-prod.web.app)
 #
-[<img align="left"  src='https://user-images.githubusercontent.com/113435724/230998661-0f85b30f-64d7-4805-9d19-1d072858b251.png' alt='web'  width='10%'>]()
+[<img align="left"  src='https://user-images.githubusercontent.com/113435724/231115966-d95d5434-06a6-4e46-bbcb-ccb5b20641b5.png' alt='web'  width='10%'>]()
 
 
 **We are Crouton Digital, international team located in Latvia. Non-custodial staking provider for proof-of-stake networks. Our aim is to provide the highest quality of service. Monitoring 24/7 secure and reliable. We are supporting projects from early stages and helping them to achieve their goals. Writing guides,articles and daily news for our community.**

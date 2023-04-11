@@ -13,7 +13,7 @@
 
 **We are Crouton Digital, international team located in Latvia. Non-custodial staking provider for proof-of-stake networks. Our aim is to provide the highest quality of service. Monitoring 24/7 secure and reliable. We are supporting projects from early stages and helping them to achieve their goals. Writing guides,articles and daily news for our community.**
 
-[<img align="left"  src='https://user-images.githubusercontent.com/113435724/231171009-878e7529-5200-4926-8056-a942ca7b7ac5.png' alt='web'  width='10%'>]()
+[<img align="left"  src='https://user-images.githubusercontent.com/113435724/231172135-5a9a2bfe-85db-4966-a7eb-912115e8bd50.png' alt='web'  width='10%'>]()
 
 
  `Infrastructure as code:` **Terraform, Ansible**  

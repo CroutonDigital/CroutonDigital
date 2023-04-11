@@ -11,13 +11,21 @@
 [<img align="left"  src='https://user-images.githubusercontent.com/113435724/231116693-b41e26a2-f403-47e7-8a66-dc6a8dd46c00.png' alt='web'  width='10%'>]()
 
 
-
-
 **We are Crouton Digital, international team located in Latvia. Non-custodial staking provider for proof-of-stake networks. Our aim is to provide the highest quality of service. Monitoring 24/7 secure and reliable. We are supporting projects from early stages and helping them to achieve their goals. Writing guides,articles and daily news for our community.**
 
-[<img align="left"  src='https://user-images.githubusercontent.com/113435724/230997643-1394f381-e1f3-402f-8846-8ca8c14c84ab.png' alt='web'  width='10%'>]()
+[<img align="left"  src='https://user-images.githubusercontent.com/113435724/231171009-878e7529-5200-4926-8056-a942ca7b7ac5.png' alt='web'  width='10%'>]()
 
-**We are Crouton Digital, international team located in Latvia. Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 secure and reliable.We are Crouton Digital, international team located in Latvia.**
+
+ `Infrastructure as code:` **Terraform, Ansible**  
+ `Backend:` **Go, Python, Node.JS, JAVA**  
+ `Front-end:` **HTML5, CSS, JAVASCRIPT, REACT, VueJS**  
+ `Database:` **MySQL, POSTGRES, MONGODB, InfluxDB**  
+ `Web-Server:` **NGINX, Apache**  
+ `Cloud computing:` **GoogleCloud, AWS, Azure, Digital Ocean, OVH**  
+ `Containerization:` **Kubernetes, Docker**  
+ `CI/CD:` **CloudBuild, Teamcity**  
+ `QA:` **Selenium**  
+ `Monitoring:` **Grafana, Prometheus, Alert manager**  
 
 [<img align="left"  src='https://user-images.githubusercontent.com/113435724/231004004-51e9a937-69fb-48f6-905b-50dd08af5e19.png' alt='web'  width='10%'>]()
 **The value of a house lies in its location, the value of a mind lies in it’s depth, the value of words lies in their reliability. Crouton Digital is your reliable crypto partner. Our team is motivated by the desire to achieve, not by desire to beat others.**

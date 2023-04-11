@@ -11,7 +11,7 @@
 [<img align="left"  src='https://user-images.githubusercontent.com/113435724/230998661-0f85b30f-64d7-4805-9d19-1d072858b251.png' alt='web'  width='10%'>]()
 
 
-**We are Crouton Digital, international team located in Latvia. Full time crypto since 2019. Running validator nodes Pos/Pow. Monitoring 24/7 secure and reliable.We are Crouton Digital, international team located in Latvia.**
+**We are Crouton Digital, international team located in Latvia. Non-custodial staking provider for proof-of-stake networks. Our aim is to provide the highest quality of service. Monitoring 24/7 secure and reliable. We are supporting projects from early stages and helping them to achieve their goals. Writing guides,articles and daily news for our community.**
 
 [<img align="left"  src='https://user-images.githubusercontent.com/113435724/230997643-1394f381-e1f3-402f-8846-8ca8c14c84ab.png' alt='web'  width='10%'>]()
 

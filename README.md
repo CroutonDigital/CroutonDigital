@@ -18,7 +18,7 @@
  `Database:` **MySQL, POSTGRES, MONGODB, InfluxDB**  
  `Web-Server:` **NGINX, Apache**  
  `Cloud computing:` **GoogleCloud, AWS, Azure, Digital Ocean, OVH**  
- `Containerization:` **Kubernetes, Docker**  
+ `Containerisation:` **Kubernetes, Docker**  
  `CI/CD:` **CloudBuild, Teamcity**  
  `QA:` **Selenium**  
  `Monitoring:` **Grafana, Prometheus, Alert manager**  

@@ -9,13 +9,9 @@
 [<img src='https://user-images.githubusercontent.com/113435724/230986711-7f73c016-5ee1-4588-9b5b-91fbba898c83.png' alt='web'  width='19.5%'>](https://crouton-nodes-prod.web.app)
 #
 [<img align="left"  src='https://user-images.githubusercontent.com/113435724/231116693-b41e26a2-f403-47e7-8a66-dc6a8dd46c00.png' alt='web'  width='10%'>]()
-
-
 **We are Crouton Digital, international team located in Latvia. Non-custodial staking provider for proof-of-stake networks. Our aim is to provide the highest quality of service. Monitoring 24/7 secure and reliable. We are supporting projects from early stages and helping them to achieve their goals. Writing guides,articles and daily news for our community.**
 #
 [<img align="left"  src='https://user-images.githubusercontent.com/113435724/231172135-5a9a2bfe-85db-4966-a7eb-912115e8bd50.png' alt='web'  width='10%'>]()
-
-
  `Infrastructure as code:` **Terraform, Ansible**  
  `Backend:` **Go, Python, Node.JS, JAVA**  
  `Front-end:` **HTML5, CSS, JAVASCRIPT, REACT, VueJS**  
@@ -29,7 +25,6 @@
 #
 [<img align="left"  src='https://user-images.githubusercontent.com/113435724/231004004-51e9a937-69fb-48f6-905b-50dd08af5e19.png' alt='web'  width='10%'>]()
 **Reliability and professionalism is our main priority. The value of a house lies in its location, the value of a mind lies in it’s depth, the value of words lies in their reliability. Crouton Digital is your reliable crypto partner. Our team is motivated by the desire to achieve, not by desire to beat others.**
-
 #
 [<img src='https://user-images.githubusercontent.com/113435724/230994953-694dfa78-734a-4b52-b3d9-da987e1765de.png' alt='mainnets'  width='99.5%'>](https://github.com/CroutonDigital)
 ___

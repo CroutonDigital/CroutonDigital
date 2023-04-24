@@ -34,6 +34,7 @@ ___
 
 
 
+
 [<img src='https://user-images.githubusercontent.com/113435724/230994779-3decee31-18a3-458f-a1f6-7c412425da78.png' alt='activetestnet'  width='99.5%'>](https://github.com/CroutonDigital)
 ___
 [<img src='https://user-images.githubusercontent.com/113435724/230788175-3ed49d27-f357-417d-9007-ed79ffb2c3a1.png' alt='axelar'  width='24.5%'>](https://testnet.axelarscan.io/validator/axelarvaloper1sxefq5mpdxfrcpjxp6h27cm0mkh4m488wuu5q8)
@@ -41,7 +42,7 @@ ___
 [<img src='https://user-images.githubusercontent.com/113435724/230788174-9743da5c-d69b-4a8b-8e37-d0184757ec2b.png' alt='archway'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788176-a65a3d6e-d93b-47c0-8e48-5a54afb843da.png' alt='celestia'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788177-03e3c690-3e97-430f-a8f1-a02e1048eb0a.png' alt='chainflip'  width='24.5%'>](https://github.com/CroutonDigital)
-[<img src='https://user-images.githubusercontent.com/113435724/234061950-fea1a04b-048c-45e7-a78f-cdc2dbe5c0f4.png' alt='cascadia'  width='24.5%'>](https://testnet.cascadia.explorers.guru/validator/cascadiavaloper1tvv8chnf20gaxr8xgwqc4qnfjfjjf6ttgdzc8r)
+[<img src='https://user-images.githubusercontent.com/113435724/234098481-b89449b6-3577-453a-8ef5-0803c1a7d84c.png' alt='cascadia'  width='24.5%'>](https://testnet.cascadia.explorers.guru/validator/cascadiavaloper1tvv8chnf20gaxr8xgwqc4qnfjfjjf6ttgdzc8r)
 [<img src='https://user-images.githubusercontent.com/113435724/234062185-cb7a94c7-ab03-4838-827b-579c780b6b8a.png' alt='stader'  width='24.5%'>](https://prater.beaconcha.in/validator/83c1e5d783c0cb755ffe3964bcb39e0fe8d0bf3f33bcf606200acd8a8529e534e9fc769babd2d81b119034c2253ced16#deposits)
 [<img src='https://user-images.githubusercontent.com/113435724/230788178-f766e79e-8228-4dae-a671-9cc2817973dc.png' alt='defund'  width='24.5%'>](https://github.com/CroutonDigital)
 [<img src='https://user-images.githubusercontent.com/113435724/230788181-168c5efa-20f0-43a8-9c80-9575c52117e0.png' alt='haqq'  width='24.5%'>](https://github.com/CroutonDigital)
